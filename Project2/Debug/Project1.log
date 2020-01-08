@@ -1,0 +1,11 @@
+﻿  SDL_OGL_SG.cpp
+d:\swift\spring\windsurfer opengl\project1\shader.h(71): warning C4101: 'infoLog': unreferenced local variable
+d:\swift\spring\windsurfer opengl\project1\shader.h(70): warning C4101: 'success': unreferenced local variable
+d:\swift\spring\windsurfer opengl\project1\sdl_ogl_sg.cpp(192): warning C4305: '-=': truncation from 'double' to 'float'
+d:\swift\spring\windsurfer opengl\project1\sdl_ogl_sg.cpp(214): warning C4305: '+=': truncation from 'double' to 'float'
+d:\swift\spring\windsurfer opengl\project1\sdl_ogl_sg.cpp(243): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+d:\swift\spring\windsurfer opengl\project1\sdl_ogl_sg.cpp(244): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+d:\swift\spring\windsurfer opengl\project1\sdl_ogl_sg.cpp(250): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+d:\swift\spring\windsurfer opengl\project1\sdl_ogl_sg.cpp(251): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+d:\swift\spring\windsurfer opengl\project1\sdl_ogl_sg.cpp(257): warning C4244: 'argument': conversion from 'const Sint32' to 'float', possible loss of data
+  Project1.vcxproj -> D:\Swift\Spring\Windsurfer OpenGL\Debug\Project1.exe

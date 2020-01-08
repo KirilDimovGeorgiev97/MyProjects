@@ -1,0 +1,10 @@
+assimp.v140
+assimp.v140.redist
+glm
+sdl2
+sdl2.nuget
+sdl2.nuget.redist
+sdl2.redist
+unofficial.flayan.glm
+unofficial-flayan-glew
+unofficial-flayan-glew.redist
