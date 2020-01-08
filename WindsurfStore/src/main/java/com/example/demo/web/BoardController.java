@@ -112,9 +112,9 @@ public class BoardController {
 			return new ResponseEntity<>(HttpStatus.BAD_REQUEST);
 		}
 		List<Board> boards = boardRepository.findByName(name);
-		if(boards.isEmpty()) {
+		if(boards.isEmpty()) 
 			return new ResponseEntity<>(HttpStatus.NOT_FOUND);
-		}
+		
 		boards.forEach(boardRepository::delete);
 		return new ResponseEntity<>(HttpStatus.OK);
 
